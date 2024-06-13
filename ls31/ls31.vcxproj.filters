@@ -30,6 +30,9 @@
     <ClCompile Include="TimeLimitedSoft.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ComercialSoft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Date.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TimeLimitedSoft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComercialSoft.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
